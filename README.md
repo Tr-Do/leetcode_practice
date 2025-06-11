@@ -3,7 +3,7 @@
 This repository contains my solutions to LeetCode problems, grouped by topic.
 
 ## Summary
-- Total Problems Solved: 7
+- Total Problems Solved: 8
 - Languages Used: Python
 
 ## Topics

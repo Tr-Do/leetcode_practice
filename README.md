@@ -2,11 +2,12 @@
 
 This repository contains my daily solutions to LeetCode problems in Python.
 
-## 📊 Stats (as of 2025-06-25)
-🧠 Total Solved: 31 problems
-✅ Easy: 26
+## 📊 Stats (as of 2025-07-01)
+🧠 Total Solved: 37 problems
+✅ Easy: 32
 ⚠️ Medium: 5
 ❌ Hard: 0
+
 - 💬 Language: Python
 
 ## 🗂 Topics Covered
@@ -31,23 +32,29 @@ This repository contains my daily solutions to LeetCode problems in Python.
 | 12 | Count Negative Numbers In A Sorted Matrix | Easy         | Binary Search    | ./binary_search/1351-count-negative-numbers-in-a-sorted-matrix/solution.py |
 | 13 | Kth Missing Positive Number               | Easy         | Binary Search    | ./binary_search/1539-kth-missing-positive-number/solution.py               |
 | 14 | Find Target Indices After Sorting Array   | Easy         | Binary Search    | ./binary_search/2089-find-target-indices-after-sorting-array/solution.py   |
-| 15 | Next Greater Element I                    | Easy         | Monotonic Stack  | ./monotic-stack/496-next-greater-element-i/solution.py                     |
-| 16 | Daily Temperatures                        | Medium       | Monotonic Stack  | ./monotic-stack/739-daily-temperatures/solution.py                         |
-| 17 | Two Sum                                   | Easy         | Two Pointers     | ./two-pointers/1-two-sum/solution.py                                       |
-| 18 | Valid Palindrome                          | Easy         | Two Pointers     | ./two-pointers/125-valid-palindrome/solution.py                            |
-| 19 | Reverse Words In A String                 | Medium       | Two Pointers     | ./two-pointers/151-reverse-words-in-a-string/solution.py                   |
-| 20 | Palindrome Linked List                    | Easy         | Two Pointers     | ./two-pointers/234-palindrome-linked-list/solution.py                      |
-| 21 | Remove Duplicates From Sorted Array       | Easy         | Two Pointers     | ./two-pointers/26-remove-duplicates-from-sorted-array/solution.py          |
-| 22 | Remove Element                            | Easy         | Two Pointers     | ./two-pointers/27-remove-element/solution.py                               |
-| 23 | Move Zeroes                               | Easy         | Two Pointers     | ./two-pointers/283-move-zeroes/solution.py                                 |
-| 24 | Reverse String                            | Easy         | Two Pointers     | ./two-pointers/344-reverse-string/solution.py                              |
-| 25 | Longest Palindrome                        | Easy         | Two Pointers     | ./two-pointers/409-longest-palindrome/solution.py                          |
-| 26 | Reverse String Ii                         | Easy         | Two Pointers     | ./two-pointers/541-reverse-string-ii/solution.py                           |
-| 27 | Reverse Words In A String Iii             | Easy         | Two Pointers     | ./two-pointers/557-reverse-words-in-a-string-iii/solution.py               |
-| 28 | Palindromic Substrings                    | Medium       | Two Pointers     | ./two-pointers/647-palindromic-substrings/solution.py                      |
-| 29 | Valid Palindrome Ii                       | Easy         | Two Pointers     | ./two-pointers/680-valid-palindrome-ii/solution.py                         |
-| 30 | Merge Sorted Array                        | Easy         | Two Pointers     | ./two-pointers/88-merge-sorted-array/solution.py                           |
-| 31 | Reverse Only Letters                      | Easy         | Two Pointers     | ./two-pointers/917-reverse-only-letters/solution.py                        |
+| 15 | Final Prices With A Special Discount...   | Easy         | Monotonic Stack  | ./monotic-stack/1475-final-prices-with-a-special-discount-in-a-shop/solution.py |
+| 16 | Min Stack                                 | Easy         | Monotonic Stack  | ./monotic-stack/155-min-stack/solution.py                                  |
+| 17 | Merge Two Sorted Lists                    | Easy         | Monotonic Stack  | ./monotic-stack/21-merge-two-sorted-lists/solution.py                      |
+| 18 | Implement Queue Using Stacks              | Easy         | Monotonic Stack  | ./monotic-stack/232-implement-queue-using-stacks/solution.py               |
+| 19 | Next Greater Element I                    | Easy         | Monotonic Stack  | ./monotic-stack/496-next-greater-element-i/solution.py                     |
+| 20 | Baseball Game                             | Easy         | Monotonic Stack  | ./monotic-stack/682-baseball-game/solution.py                              |
+| 21 | Daily Temperatures                        | Medium       | Monotonic Stack  | ./monotic-stack/739-daily-temperatures/solution.py                         |
+| 22 | Backspace String Compare                  | Easy         | Monotonic Stack  | ./monotic-stack/844-backspace-string-compare/solution.py                   |
+| 23 | Two Sum                                   | Easy         | Two Pointers     | ./two-pointers/1-two-sum/solution.py                                       |
+| 24 | Valid Palindrome                          | Easy         | Two Pointers     | ./two-pointers/125-valid-palindrome/solution.py                            |
+| 25 | Reverse Words In A String                 | Medium       | Two Pointers     | ./two-pointers/151-reverse-words-in-a-string/solution.py                   |
+| 26 | Palindrome Linked List                    | Easy         | Two Pointers     | ./two-pointers/234-palindrome-linked-list/solution.py                      |
+| 27 | Remove Duplicates From Sorted Array       | Easy         | Two Pointers     | ./two-pointers/26-remove-duplicates-from-sorted-array/solution.py          |
+| 28 | Remove Element                            | Easy         | Two Pointers     | ./two-pointers/27-remove-element/solution.py                               |
+| 29 | Move Zeroes                               | Easy         | Two Pointers     | ./two-pointers/283-move-zeroes/solution.py                                 |
+| 30 | Reverse String                            | Easy         | Two Pointers     | ./two-pointers/344-reverse-string/solution.py                              |
+| 31 | Longest Palindrome                        | Easy         | Two Pointers     | ./two-pointers/409-longest-palindrome/solution.py                          |
+| 32 | Reverse String Ii                         | Easy         | Two Pointers     | ./two-pointers/541-reverse-string-ii/solution.py                           |
+| 33 | Reverse Words In A String Iii             | Easy         | Two Pointers     | ./two-pointers/557-reverse-words-in-a-string-iii/solution.py               |
+| 34 | Palindromic Substrings                    | Medium       | Two Pointers     | ./two-pointers/647-palindromic-substrings/solution.py                      |
+| 35 | Valid Palindrome Ii                       | Easy         | Two Pointers     | ./two-pointers/680-valid-palindrome-ii/solution.py                         |
+| 36 | Merge Sorted Array                        | Easy         | Two Pointers     | ./two-pointers/88-merge-sorted-array/solution.py                           |
+| 37 | Reverse Only Letters                      | Easy         | Two Pointers     | ./two-pointers/917-reverse-only-letters/solution.py                        |
 
 Each folder contains the problem file and thought process with an explanation file.
 

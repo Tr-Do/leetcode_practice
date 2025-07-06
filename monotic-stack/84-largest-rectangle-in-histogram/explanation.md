@@ -15,3 +15,10 @@ Given an array of integers heights representing the histogram's bar height where
 
 # Time complexity:
 O(n)
+
+# Compression
+**Schema**: 
+Use 2 monotonic stacks to find left bound and right bound of the width  
+
+**Trapline**: 
+If not subtract 1, the width is off by 1

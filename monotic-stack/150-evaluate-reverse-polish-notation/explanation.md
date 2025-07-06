@@ -14,4 +14,11 @@ Evaluate the expression. Return an integer that represents the value of the expr
 - For - and / , right pop - or / left pop, then int() division to truncate towards 0
 
 # Time complexity:
-o(n)
+O(n)
+
+# Compression
+**Schema**: 
+Use monotonic stack to keep the numbers and pop them out for calculation
+
+**Trapline**:
+The input is string, need to check if it's a digit and strip out negative sign before doing that; truncate towards 0 requires int, // truncates towards negative infinity

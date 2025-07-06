@@ -13,3 +13,10 @@ The next greater number of a number x is the first greater number to its travers
 
 # Time complexity:
 O(n)
+
+# Compression:
+**Schema**:  
+Use monotonic stack to find the next greater element; use formula of circular array for iteration
+
+**Trapline**:
+Circular array requries 2*len for iteration

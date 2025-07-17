@@ -3,11 +3,11 @@
 This repository contains my daily solutions to LeetCode problems in Python.
 
 ## 📊 Stats (as of 2025-07-16)
-🧠 Total Solved: 42 problems
+🧠 Total Solved: 43 problems
 
 ✅ Easy: 34
 
-⚠️ Medium: 7
+⚠️ Medium: 8
 
 ❌ Hard: 1
 

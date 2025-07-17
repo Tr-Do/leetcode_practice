@@ -2,10 +2,10 @@
 
 This repository contains my daily solutions to LeetCode problems in Python.
 
-## 📊 Stats (as of 2025-07-04)
-🧠 Total Solved: 41 problems
+## 📊 Stats (as of 2025-07-16)
+🧠 Total Solved: 42 problems
 
-✅ Easy: 33
+✅ Easy: 34
 
 ⚠️ Medium: 7
 

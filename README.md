@@ -2,10 +2,10 @@
 
 This repository contains my daily solutions to LeetCode problems in Python.
 
-## 📊 Stats (as of 2025-08-21)
-🧠 Total Solved: 61 problems
+## 📊 Stats (as of 2025-08-23)
+🧠 Total Solved: 63 problems
 
-✅ Easy: 44
+✅ Easy: 46
 
 ⚠️ Medium: 12
 
@@ -21,6 +21,7 @@ This repository contains my daily solutions to LeetCode problems in Python.
 - Sliding Window
 - Graph Traversal
 - Digit Manipulation
+- Greedy
 
 My LeetCode Profile:
 https://leetcode.com/u/Tr-Do/

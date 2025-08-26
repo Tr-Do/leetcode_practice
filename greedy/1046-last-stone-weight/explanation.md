@@ -16,6 +16,7 @@ Return the weight of the last remaining stone. If there are no stones left, retu
 - heapify the list
 - while len(list) > 1: x = -heappop list, y = -heapppop list
 - if x!=y, heap push to list -(x-y)
+- return list[0] if list, else 0
 
 # Key insight
 - sort has nlogn time complexity
@@ -24,6 +25,3 @@ Return the weight of the last remaining stone. If there are no stones left, retu
 
 # Time complexity:
 O(nlogn)
-
-# Space complexity:
-O(1)

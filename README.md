@@ -2,14 +2,14 @@
 
 This repository contains my daily solutions to LeetCode problems in Python.
 
-## 📊 Stats (as of 2025-08-24)
-🧠 Total Solved: 64 problems
+## 📊 Stats (as of 2025-08-25)
+🧠 Total Solved: 65 problems
 
-✅ Easy: 47
+✅ Easy: 48
 
 ⚠️ Medium: 12
 
-❌ Hard: 5
+❌ Hard: 6
 
 - 💬 Language: Python
 

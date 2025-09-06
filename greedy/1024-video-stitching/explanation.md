@@ -7,9 +7,16 @@ Return the minimum number of clips needed so that we can cut the clips into segm
 
 # What went wrong:
 - Not find the clip yielding max length from 0
+- Not assign current_end to next_end
 
 # Approach:
-
+- Sort the list according to the start time
+- Intialize current_end, next_end, i, res = 0
+- Use nested while loop to iterate through the list, preventing starting from 0 after each resest
+- while current_end < time then while current iteration < len(clips) and current clip starting time <= current_end
+- next_end = max(next_end, clips[i][1]), then increment i
+- Handle edge case when current_end == next_end, return -1
+- return res
 
 # Time complexity:
 O(nlogn)

@@ -3,11 +3,11 @@
 This repository contains my daily solutions to LeetCode problems in Python.
 
 ## 📊 Stats (as of 2025-10-06)
-🧠 Total Solved: 98 problems
+🧠 Total Solved: 99 problems
 
 ✅ Easy: 49
 
-⚠️ Medium: 23
+⚠️ Medium: 24
 
 ❌ Hard: 3
 
@@ -22,6 +22,7 @@ This repository contains my daily solutions to LeetCode problems in Python.
 - Graph Traversal
 - Digit Manipulation
 - Greedy
+- Heap
 
 My LeetCode Profile:
 https://leetcode.com/u/Tr-Do/

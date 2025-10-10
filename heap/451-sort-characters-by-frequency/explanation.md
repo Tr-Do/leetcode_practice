@@ -9,8 +9,8 @@ Return the sorted string. If there are multiple answers, return any of them.
 # Approach:
 - Import heapq, counter
 - Use counter from collection to count the frequency of characters in the string, assign to count
-- Initialize empty heap, empty piece- Put 
-- Loop through the count, use heap push, (-freq, ch)
+- Initialize empty heap, empty piece 
+- Loop through the count, use append to list (-freq, ch)
 - Heapify heap
 - While heap: a, b = heappop, piece.append(-a)*
 - Return ''.join(piece)

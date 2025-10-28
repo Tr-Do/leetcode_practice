@@ -2,12 +2,12 @@
 
 This repository contains my daily solutions to LeetCode problems in Python.
 
-## 📊 Stats (as of 2025-10-10)
-🧠 Total Solved: 100 problems
+## 📊 Stats (as of 2025-10-28)
+🧠 Total Solved: 107 problems
 
-✅ Easy: 61
+✅ Easy: 63
 
-⚠️ Medium: 36
+⚠️ Medium: 41
 
 ❌ Hard: 3
 
@@ -23,6 +23,7 @@ This repository contains my daily solutions to LeetCode problems in Python.
 - Digit Manipulation
 - Greedy
 - Heap
+- Dynamic Programming
 
 My LeetCode Profile:
 https://leetcode.com/u/Tr-Do/
